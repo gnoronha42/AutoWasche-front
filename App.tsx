@@ -1,11 +1,14 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import { enableScreens } from "react-native-screens";
+import Routes from './src/routes/routes';
+import Home from './src/screens/Home';
 
 export default function App() {
+  enableScreens();
+
   return (
-    <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
-    </View>
+    <Home/> 
   );
 }
 
