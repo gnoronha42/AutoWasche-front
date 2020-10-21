@@ -1,0 +1,12 @@
+{
+  "name": "autowaschefront",
+  "displayName": "autowaschefront",
+  "expo": {
+    "name": "autowaschefront",
+    "slug": "autowaschefront",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
