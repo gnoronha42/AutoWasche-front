@@ -1,4 +1,5 @@
 export const RouteConstants = {
-    HOME: "HOME"
+    HOME: "HOME",
+    LOGIN: "LOGIN"
 
 }

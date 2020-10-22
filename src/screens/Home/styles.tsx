@@ -12,7 +12,10 @@ export const Main = styled.View`
   justify-content:center;
   
 `;
-export const Text = styled.Text`
+export const MainText = styled.Text`
 font-size:30px;
-  color: white;
+color: white;
 `;
+
+
+export const MainButton = styled.TouchableOpacity``; 

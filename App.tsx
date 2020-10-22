@@ -8,7 +8,7 @@ export default function App() {
   enableScreens();
 
   return (
-    <Home/> 
+    <Routes/> 
   );
 }
 
